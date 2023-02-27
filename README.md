@@ -1,2 +1,2 @@
 # webpack-template
-シングルページサンプル作る用の雛形
+A template for making a single page sample
